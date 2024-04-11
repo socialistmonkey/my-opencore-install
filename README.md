@@ -6,7 +6,8 @@ Type|Item
 **Memory** | Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory [DOCP disabled]
 **Storage** | Crucial P3 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive [MacOS Drive]
 **Video Card** | XFX Speedster MERC 319 CORE Radeon RX 6800 XT 16 GB Video Card
-**Power Supply** | be quiet! Pure Power 12 M 750 W 80+ Gold Certified Fully Modular ATX Power Supply
+**LAN Chipset** | Intel® I211-AT 1Gb Ethernet
+**WIFI & Bluetooth** |  BCM94360NG 
 
 Make sure to follow BIOS guide on OpenCore website
 
